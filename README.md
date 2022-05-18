@@ -1,10 +1,5 @@
-# Whatsapp-Bulk-Messenger
+# WBMpy
 
-Whatsapp Bulk Messenger automates sending of messages via Whatsapp Web. The tool can you used to send whatsapp message in bulk. Program uses runs through a list of numbers provided in numsbers.txt and then tries to send a prediefined (but templated) message to each number in the list. It can also read other columns from the number csv to populate template specific words and then send out a personalized message to the number
-
-Note: The current program is limited to sending only TEXT message
-
-Note: Another version of similar project is available which supports sending media and documents along with text. As per many requests, I have added a [video here](https://youtu.be/NNkAh5sLEok) demonstrating how the app works. Please reach out to me on [email](mailto:bagrianirudh@gmail.com) for more enquiry. Join the [google group here](https://groups.google.com/g/whatsapp-bulker/) and [telegram group here](https://t.me/whatsapp_bulker).
 
 # Requirements
 
@@ -27,6 +22,3 @@ Note: Another version of similar project is available which supports sending med
 7. Press `Enter` to start sending out messages.
 8. Sit back and relax!
 
-### Funding
-
-If you like this app, I'd appreciate it if you could make a donation via [Buy Me a Coffee](https://www.buymeacoffee.com/anirudhbagri) or [PayPal.Me](https://paypal.me/AnirudhBagri?locale.x=en_GB).
